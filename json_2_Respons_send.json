@@ -1,0 +1,14 @@
+{
+  "data": {
+    "cost": "1500.00",
+    "message": "کد تایید شما: 12345",
+    "uid": "17765023114093517",
+    "status": "CREATED",
+    "blacklisted_count": 0
+  },
+  "meta": {
+    "message": "عملیات با موفقیت انجام شد.",
+    "requestId": "d9647fb8-4e9e-4709-9ba4-dfe9927b05a7",
+    "serverTime": "2026-05-11T11:01:36.152123Z"
+  }
+}
